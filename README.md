@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<a rel="me" href="https://infinitumnihil.social/@nt"></a>
+
+Just a site holding the repos I am working on
 
 <!--
 **normantodd/normantodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
